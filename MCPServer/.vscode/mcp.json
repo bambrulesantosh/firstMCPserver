@@ -1,0 +1,14 @@
+{
+  "inputs": [],
+  "servers": {
+    "sample-mcp": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "D:\\Users\\bambr\\source\\repos\\MCPServer\\MCPServer\\MCPServer.csproj"
+      ]
+    }
+  }
+}
